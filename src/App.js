@@ -3,8 +3,8 @@ import Recipe from "./Recipe";
 import "./App.css";
 
 const App = () => {
-  const APP_ID = "put your app id here";
-  const APP_KEY = "put your app key here";
+  const APP_ID = "25b0da0d";
+  const APP_KEY = "1a6a76529463530a4c85783ef6eb979d	";
 
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState("");
